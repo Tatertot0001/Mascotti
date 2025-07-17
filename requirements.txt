@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+requests
+openai
+tweepy
+praw
+scikit-learn
+transformers
+schedule
+beautifulsoup4
+alpaca-trade-api
